@@ -2,7 +2,7 @@
 
 This repository showcases a curated collection of Machine Learning algorithms, categorized into Supervised and Unsupervised learning techniques, with direct links to their respective GitHub repositories for easy access and exploration.
 
---
+
 ## Supervised Learning
 Supervised learning uses labeled data to train models for predictions. It is divided into two types:
 
